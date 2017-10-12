@@ -8,6 +8,10 @@
     "configUser": "upaasportal",
     "grayConfigFile": "UXUPaasPortalDllFoundationGray",
     "grayConfigApp": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/talentui/dll-react.git"
+    },
     "scripts": {
         "build-dev": "webpack",
         "build-prod": "NODE_ENV=production webpack",
