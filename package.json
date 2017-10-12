@@ -1,0 +1,38 @@
+{
+    "name": "@talentui/dll-react",
+    "version": "1.0.0",
+    "description": "project to build talentui libs into an dll",
+    "main": "./dist/dll-react.dev.js",
+    "configFile": "UXUPaasPortalDllFoundation",
+    "configApp": "",
+    "configUser": "upaasportal",
+    "grayConfigFile": "UXUPaasPortalDllFoundationGray",
+    "grayConfigApp": "",
+    "scripts": {
+        "build-dev": "webpack",
+        "build-prod": "NODE_ENV=production webpack",
+        "debug": "node --inspect --debug-brk node_modules/.bin/webpack",
+        "prepublish": "npm run clear-dist && npm run build-dev && npm run build-prod",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "clear-dist": "rm -rf ./dist/*"
+    },
+    "author": {
+        "name": "Li Guoming",
+        "email": "liguoming@beisen.com"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "@talentui/dll-webpack-config": "^1.0.1",
+        "immutable": "^3.8.1",
+        "prop-types": "^15.5.10",
+        "react": "^15.6.1",
+        "react-dom": "^15.6.1",
+        "react-redux": "^5.0.5",
+        "react-router-dom": "^4.1.1",
+        "react-transition-group": "^1.2.0",
+        "redux": "^3.6.0"
+    },
+    "devDependencies": {
+        "webpack": "^3.0.0"
+    }
+}

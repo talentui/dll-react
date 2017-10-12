@@ -1,0 +1,6 @@
+node_modules/
+webpack.config.js
+vender-list
+yarn.lock
+yarn-error.log
+npm-debug.log
