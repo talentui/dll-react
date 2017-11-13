@@ -27,7 +27,6 @@
     "license": "ISC",
     "dependencies": {
         "@talentui/dll-webpack-config": "^1.0.1",
-        "immutable": "^3.8.1",
         "prop-types": "^15.5.10",
         "react": "16.1.0",
         "react-dom": "16.1.0",
