@@ -15,7 +15,7 @@
 
 # changeLog:
 
-## 1.1.0
+## 16.1.0
 
 升级react 和 react-dom到16.1.0， 删除immutable依赖
 
