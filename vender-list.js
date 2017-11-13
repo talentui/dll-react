@@ -5,6 +5,5 @@ module.exports = [
     "react-router-dom",
     "redux",
     "react-redux",
-    "react-transition-group",
-    "immutable"
+    "react-transition-group"
 ];
