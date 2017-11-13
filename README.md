@@ -1,4 +1,3 @@
-[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](https://github.com/talentui/dll-react)
 # 使用[Webpack DllPlugin](https://webpack.js.org/plugins/dll-plugin/)打包出来的dll 基本上等于talent-libs
 
 目前包含进去的库有：
