@@ -15,6 +15,20 @@
 
 # changeLog:
 
+## 16.1.1
+在react16.1.0版本上加上immutable依赖
+
+本次版本的依赖有：
+* react
+* react-dom
+* prop-types
+* react-router-dom
+* redux
+* react-redux
+* react-transition-group
+* immutable
+
+
 ## 16.1.0
 
 升级react 和 react-dom到16.1.0， 删除immutable依赖
