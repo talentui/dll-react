@@ -3,11 +3,6 @@
     "version": "16.1.1",
     "description": "project to build talentui libs into an dll",
     "main": "./dist/dll-react.dev.js",
-    "configFile": "UXUPaasPortalDllFoundation",
-    "configApp": "",
-    "configUser": "upaasportal",
-    "grayConfigFile": "UXUPaasPortalDllFoundationGray",
-    "grayConfigApp": "",
     "repository": {
         "type": "git",
         "url": "https://github.com/talentui/dll-react.git"
