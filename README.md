@@ -19,7 +19,7 @@
 
 # 引入
 
-本dll的线上服务器地址是：
+本dll的线上服务器地址是：http://stnew03.beisen.com/ux/upaas/@talentui/dll-react/release/dist/dll-react-{版本号}.min.js 
 
 # changeLog:
 
