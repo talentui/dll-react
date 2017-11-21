@@ -49,3 +49,16 @@
 * redux
 * react-redux
 * react-transition-group
+
+## 15.6.0
+
+打包react 15版本的dll 
+本次版本的依赖有：
+* react
+* react-dom
+* prop-types
+* react-router-dom
+* redux
+* react-redux
+* react-transition-group
+* immutable
