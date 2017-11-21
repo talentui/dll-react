@@ -1,6 +1,6 @@
 {
     "name": "@talentui/dll-react",
-    "version": "15.6.0",
+    "version": "15.6.1",
     "description": "project to build talentui libs into an dll",
     "main": "./dist/dll-react.dev.js",
     "repository": {
